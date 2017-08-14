@@ -1,0 +1,7 @@
+EXPORTS
+stbf_test @1
+stbf_setconf @2
+stbf_upload @3
+stbf_download @4
+stbf_delete @5
+stbf_release @6
